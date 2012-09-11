@@ -1,4 +1,4 @@
-Rahankerayslaki
+Rahankeräyslaki
 ===============
 
 Täällä editoidaan Suomelle uusi rahankeräyslaki. OKFestin yhteydessä pidetään siis keskiviikkona 19.9. klo 14:00-16:30 Hämeentie 150:ssä sessio, jonka jälkeen dokumentit ovat toivon mukaan valmiita nimenkeräyksen alkamiseksi.
