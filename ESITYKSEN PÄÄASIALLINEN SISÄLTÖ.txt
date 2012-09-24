@@ -21,6 +21,7 @@ rahankeräykset ja niiden tiedot
 - Tietyn kynnysarvon ylittäviltä (30K€?) keräyksiltä velvollisuus ulkopuoliseen 
 tilintarkastukseen
 - Nykyiset lupaprosessista vapautetut keräykset (naapuriapu ym.) ovat vapautettu myös ilmoitusvelvollisuudesta
+- Jos keräys rikkoo lakia, kerätyt rahat tulee palauttaa lahjoittajille, ei määrätä menetettäväksi valtiolle rikoksentekohyötynä
 
 4 Esityksen vaikutukset
 4.1 Yhteiskunnalliset vaikutukset
