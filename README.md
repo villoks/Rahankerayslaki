@@ -1,12 +1,12 @@
 Rahankeräyslaki
 ===============
 
-Täällä editoidaan Suomelle uusi rahankeräyslaki. OKFestin yhteydessä pidetään siis keskiviikkona 19.9. klo 14:00-16:30 Hämeentie 150:ssä sessio, jonka jälkeen dokumentit ovat toivon mukaan valmiita nimenkeräyksen alkamiseksi.
+Täällä editoidaan Suomelle uusi rahankeräyslaki. Ensimmäinen tapaaminen järjestettiin OKFestin yhteydessä keskiviikkona 19.9. klo 14:00-16:30 Hämeentie 150:ssä. Seuraavaksi fyysiseksi tapaamisajankohdaksi sovitiin 11.10. klo 17 (Lari Lohikoski varmistaa paikan). Silloin dokumentit ovat toivon mukaan valmiita luonnoksia ja voidaan jo suunnitella myös kampanjaa ja nimenkeräyksen aloittamista.
 
 Dokumentit on nyt kolmessa osassa editoinnin helpottamiseksi:
--Verkkokansan esitys 
--Yksityiskohtaiset perustelut
--Laki
+-Verkkokansan esitys ("mitä ja miksi ollaan tekemässä selkokielellä")
+-Yksityiskohtaiset perustelut ("kunkin pykälän otsikko ja selitys")
+-Laki ("pykälät")
 
 Näitä kaikkia saa alkaa editoimaan omien kykyjen mukaan. Jos lakiin tekee muutoksen, se tulisi päivittää myös yksityiskohtaisiin perusteluihin.
 
